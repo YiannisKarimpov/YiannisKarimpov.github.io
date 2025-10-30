@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+    color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    
+}
+
+li p{
+    font-size: xx-large;
+    background-color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
